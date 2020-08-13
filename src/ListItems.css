@@ -1,0 +1,21 @@
+.list{
+  width: 350px;
+  height: 50px;
+  background-color: #0066ff;
+  margin-left: 20px;
+  border-radius: 5px;
+  color: white;
+  text-transform: capitalize
+}
+
+.list p{
+  padding: 15px;
+  position: relative;
+}
+
+#delete{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  margin-top: -5px;
+}
